@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59362129862",
+    "project_id": "jjaps-3a11a",
+    "storage_bucket": "jjaps-3a11a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59362129862:android:6d972ad5570b6d0a2964c7",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59362129862-aqqr23sebdlnu4d6c0c7l9bndnambrc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJ8VOGO2HikVEKjpSgjPdtxL_LNcswlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59362129862-aqqr23sebdlnu4d6c0c7l9bndnambrc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
